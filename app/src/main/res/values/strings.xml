@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FetchCodingExercise</string>
+    <string name="fetch_data">Fetch Data</string>
+    <string name="welcome_banner">Welcome to Fetch\'s coding exercise done by Filip Poborca! Please press the button to load JSON data.</string>
+    <string name="default_sort">Default sort</string>
+    <string name="name_sort">name sort</string>
+    <string name="id_sort">id sort</string>
+</resources>
